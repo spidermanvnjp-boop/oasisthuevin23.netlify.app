@@ -1,1 +1,0 @@
-import{d as e}from"./api.functions-SoUzm9XH.js";var t=e();function n(e){return`/.netlify/images?url=/img/logo-oasis.png&w=${e}&fm=webp`}function r({width:e,className:r}){return(0,t.jsx)(`img`,{src:n(e*2),width:e,height:Math.round(e*890/567),alt:`Oasis Realty`,className:r})}export{r as t};
